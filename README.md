@@ -1,3 +1,14 @@
+# Open Brush - A fork of Tilt Brush.
+We hope to help maintain Tilt Brush. 
+As the original repo, is archived, we cannot submit PRs. 
+
+Currently the goal of this repo is to make a version of Tilt Brush that can be published without breaking brand guidelines. 
+Hopefully then people can release their versions of Tilt Brush and pick the "rebrand" commit from this repo so they can release their versions. 
+
+Getting modding support is the next goal. 
+
+[Please join the Icosa Discord and get involved!](https://discord.com/invite/W7NCEYnEfy)
+
 # Tilt Brush README
 
 Tilt Brush is licensed under Apache 2.0. It is not an officially supported
